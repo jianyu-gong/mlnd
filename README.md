@@ -1,2 +1,2 @@
-# [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-Projects for my Udacity Data Analyst Nanodegree
+# [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+Projects for my Udacity Machine Learning Nanodegree
